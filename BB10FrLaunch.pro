@@ -1,10 +1,7 @@
 QT += network gui widgets quick qml
 
-TARGET="bb10eraser"
-#win32: RC_ICONS += assets/sachesi.ico
-#else:mac: ICON = assets/sachesi.icns
-#else: ICON = assets/sachesi.png
-VERSION = 2.0.3
+TARGET="bb10FrLaunch"
+VERSION = 1.0.0
 
 # Global specific
 CONFIG += c++11
